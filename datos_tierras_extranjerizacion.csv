@@ -1,0 +1,530 @@
+"nombre","provincia","nivel","porcentaje","extranjerizada_ha","total_ha","id"
+"Saladillo","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",2,"5590.0600000000004",257860.08,1
+"Las Flores","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",2,"6429.0500000000002",323971.96,2
+"Rojas","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",4,"7614.3500000000004",199731.91,3
+"Escobar","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",4,"505.19999999999999",13627.74,4
+"José C. Paz","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",3,"21.670000000000002",676.03,5
+"San Antonio de Areco","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",3,"2889.1999999999998",83445.68,6
+"Maipú","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",3,"8857.3700000000008",260350.89,7
+"O'Higgins","Chaco","Departamentos dentro del promedio nacional",1,"985.80999999999995",157513.56,8
+"Moreno","Provincia de Buenos Aires","Departamentos por encima del promedio nacional",10,"420.80000000000001",4398.39,9
+"La Matanza","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",4,"469.0",13354.74,10
+"General Paz","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",4,"4410.5200000000004",116830.57,11
+"General Guido","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",0,"0.02",229324.9,12
+"General Juan Madariaga","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",1,"2671.8000000000002",290533.86,13
+"Tandil","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",5,"21557.279999999999",467532.17,14
+"Coronel Suárez","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",3,"15099.73",571848.04,15
+"Adolfo Gonzales Chaves","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",0,"994.53999999999996",372133.72,16
+"Bahía Blanca","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",2,"3710.7199999999998",192659.35,17
+"General Alvarado","Provincia de Buenos Aires","Departamentos por encima del promedio nacional",6,"8854.9599999999991",153526.68,18
+"General Pueyrredón","Provincia de Buenos Aires","Departamentos por encima del promedio nacional",7,"9474.5900000000001",126395.94,19
+"Mar Chiquita","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",1,"4228.8400000000001",291324.78,20
+"Villa Gesell","Provincia de Buenos Aires","Departamentos por encima del promedio nacional",6,"654.65999999999997",10608.63,21
+"Pinamar","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",0,"",3388.21,22
+"General Lavalle","Provincia de Buenos Aires","Departamentos por encima del promedio nacional",6,"15803.51",265700.29,23
+"La Costa","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",1,"82.659999999999997",12642.76,24
+"Magdalena","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",3,"4775.8699999999999",179454.54,25
+"Vicente López","Provincia de Buenos Aires","Sin datos",NA,NA,NA,26
+"Alberdi","Santiago del Estero","Departamentos por encima del promedio nacional",9,"122672.48",1350105.47,27
+"Juan Felipe Ibarra","Santiago del Estero","Departamentos dentro del promedio nacional",3,"26523.0",908708,28
+"General Taboada","Santiago del Estero","Departamentos dentro del promedio nacional",3,"16064.0",602881.75,29
+"Rivadavia","Santiago del Estero","Departamentos dentro del promedio nacional",1,"1692.6500000000001",337031.75,30
+"Ojo de Agua","Santiago del Estero","Departamentos dentro del promedio nacional",0,"",622862.77,31
+"Choya","Santiago del Estero","Departamentos dentro del promedio nacional",1,"3996.71",647625.93,32
+"Rauch","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",2,"9942.6100000000006",416431.43,33
+"Salliqueló","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",1,"613.96000000000004",78070.95,34
+"Berazategui","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",2,"339.54000000000002",13949.65,35
+"Tornquist","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",1,"2882.0799999999999",393242.44,36
+"Coronel Pringles","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",2,"8282.7900000000009",502366.83,37
+"General Pinto","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",2,"5002.54",245703.39,38
+"San Cayetano","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",5,"15120.889999999999",294562.69,39
+"Tres Arroyos","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",3,"18842.169999999998",565431.72,40
+"Coronel Dorrego","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",1,"5961.2399999999998",569810.91,41
+"Necochea","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",4,"15784.02",429155.09,42
+"Independencia","La Rioja","Departamentos dentro del promedio nacional",0,"",712000,43
+"General Ortiz de Ocampo","La Rioja","Departamentos dentro del promedio nacional",0,"0.37",212876.86,44
+"Chamical","La Rioja","Departamentos dentro del promedio nacional",0,"2.4500000000000002",554533.49,45
+"Arauco","La Rioja","Departamentos dentro del promedio nacional",1,"1191.8900000000001",198442.47,46
+"Lezama","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",1,"568.61000000000001",96138.16,47
+"Chascomús","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",2,"6981.1199999999999",299948.64,48
+"Punta Indio","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",2,"2879.98",153729.55,49
+"El Carmen","Jujuy","Departamentos con alto nivel de extranjerización",15,"13270.799999999999",89683.91,50
+"Campana","Provincia de Buenos Aires","Departamentos con alto nivel de extranjerización",50,"11935.48",23743.2,51
+"Magallanes","Santa Cruz","Departamentos con alto nivel de extranjerización",26,"509486.59000000003",1976725.16,52
+"Corpen Aike","Santa Cruz","Departamentos dentro del promedio nacional",5,"133830.81",2624836.03,53
+"Conesa","Rio Negro","Departamentos dentro del promedio nacional",0,"400.0",982632.45,54
+"General Lamadrid","La Rioja","Departamentos con alto nivel de extranjerización",57,"349858.09999999998",617003.65,55
+"Comuna 6","Ciudad Autónoma de Buenos Aires","Sin datos",NA,NA,NA,56
+"12 de Octubre","Chaco","Departamentos dentro del promedio nacional",1,"2720.5",253398.72,57
+"Tulumba","Cordoba","Departamentos dentro del promedio nacional",1,"9816.1299999999992",960151.43,58
+"Cruz del Eje","Cordoba","Departamentos dentro del promedio nacional",0,"339.86000000000001",658165.6,59
+"Punilla","Cordoba","Departamentos dentro del promedio nacional",3,"6989.1199999999999",220864.64,60
+"Santa María","Cordoba","Departamentos dentro del promedio nacional",0,"1487.8",310547.69,61
+"Minas","Cordoba","Departamentos dentro del promedio nacional",4,"14804.02",357653.86,62
+"San Alberto","Cordoba","Departamentos dentro del promedio nacional",2,"5818.8100000000004",336643.08,63
+"Río Segundo","Cordoba","Departamentos dentro del promedio nacional",0,"2143.9099999999999",512936.61,64
+"San Justo","Cordoba","Departamentos dentro del promedio nacional",0,"3239.3299999999999",1544690.6,65
+"Unión","Cordoba","Departamentos dentro del promedio nacional",2,"17850.860000000001",1082148.05,66
+"Tercero Arriba","Cordoba","Departamentos dentro del promedio nacional",2,"11394.93",511451.96,67
+"Río Cuarto","Cordoba","Departamentos dentro del promedio nacional",2,"42877.980000000003",1845697.65,68
+"Pilagás","Formosa","Departamentos dentro del promedio nacional",0,"632.46000000000004",221328,69
+"Laishi","Formosa","Departamentos dentro del promedio nacional",2,"5413.3000000000002",243204,70
+"Pirané","Formosa","Departamentos dentro del promedio nacional",0,"919.20000000000005",576975,71
+"General Güemes","Chaco","Departamentos por encima del promedio nacional",6,"150586.13",2396166.76,72
+"Valcheta","Rio Negro","Departamentos dentro del promedio nacional",0,"40.210000000000001",1961352.35,73
+"San Antonio","Rio Negro","Departamentos dentro del promedio nacional",2,"30272.799999999999",1321687.08,74
+"9 de Julio","Rio Negro","Departamentos dentro del promedio nacional",0,"",1846444.08,75
+"Ñorquinco","Rio Negro","Departamentos dentro del promedio nacional",5,"34843.949999999997",637795.04,76
+"25 de Mayo","Rio Negro","Departamentos dentro del promedio nacional",0,"2309.0",2415714.51,77
+"Pilcaniyeu","Rio Negro","Departamentos por encima del promedio nacional",10,"95250.410000000003",909273.33,78
+"Adolfo Alsina","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",1,"5860.3000000000002",566624.62,79
+"Pellegrini","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",5,"9217.4200000000001",177019.49,80
+"Puán","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",1,"8065.5200000000004",615166.33,81
+"Villarino","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",3,"29786.360000000001",1030440.46,82
+"Presidente Roque Sáenz Peña","Cordoba","Departamentos dentro del promedio nacional",2,"17793.23",820702.9,83
+"General Villegas","Provincia de Buenos Aires","Departamentos por encima del promedio nacional",6,"38657.889999999999",690042.05,84
+"General Roca","Cordoba","Departamentos dentro del promedio nacional",2,"23270.900000000001",1268705.41,85
+"Picún Leufú","Neuquen","Departamentos dentro del promedio nacional",1,"2678.9200000000001",426155.23,86
+"Zapala","Neuquen","Departamentos dentro del promedio nacional",1,"4269.29",534488.18,87
+"Aluminé","Neuquen","Departamentos dentro del promedio nacional",2,"10033.610000000001",459309.46,88
+"Comuna 1","Ciudad Autónoma de Buenos Aires","Sin datos",NA,NA,NA,89
+"Comuna 4","Ciudad Autónoma de Buenos Aires","Sin datos",NA,NA,NA,90
+"Comuna 5","Ciudad Autónoma de Buenos Aires","Sin datos",NA,NA,NA,91
+"Comuna 7","Ciudad Autónoma de Buenos Aires","Sin datos",NA,NA,NA,92
+"Comuna 10","Ciudad Autónoma de Buenos Aires","Sin datos",NA,NA,NA,93
+"Comuna 11","Ciudad Autónoma de Buenos Aires","Sin datos",NA,NA,NA,94
+"Comuna 12","Ciudad Autónoma de Buenos Aires","Sin datos",NA,NA,NA,95
+"San Martín","Santiago del Estero","Departamentos por encima del promedio nacional",9,"19485.59",209555,96
+"Yavi","Jujuy","Departamentos dentro del promedio nacional",0,"",293533.21,97
+"Santa Catalina","Jujuy","Departamentos dentro del promedio nacional",0,"",294857.43,98
+"San Pedro","Jujuy","Departamentos con alto nivel de extranjerización",21,"44237.580000000002",213947.46,99
+"Valle Grande","Jujuy","Departamentos dentro del promedio nacional",0,"",96099.32,100
+"Patiño","Formosa","Departamentos dentro del promedio nacional",1,"22975.77",2332410,101
+"Bermejo","Formosa","Departamentos dentro del promedio nacional",1,"9422.8700000000008",1245569,102
+"Susques","Jujuy","Departamentos dentro del promedio nacional",0,"",919474.11,103
+"Matacos","Formosa","Departamentos dentro del promedio nacional",0,"",440167,104
+"Tilcara","Jujuy","Departamentos dentro del promedio nacional",0,"10.56",184318.31,105
+"Palpalá","Jujuy","Departamentos dentro del promedio nacional",5,"2337.1100000000001",45798.32,106
+"Quebrachos","Santiago del Estero","Departamentos por encima del promedio nacional",6,"19279.509999999998",350392.47,107
+"Esquina","Corrientes","Departamentos por encima del promedio nacional",8,"26486.119999999999",344474.69,108
+"Tapenagá","Chaco","Departamentos por encima del promedio nacional",6,"32400.889999999999",509894.92,109
+"Quitilipi","Chaco","Departamentos dentro del promedio nacional",0,"553.19000000000005",130792.25,110
+"Presidencia de la Plaza","Chaco","Departamentos dentro del promedio nacional",0,"110.17",178671.36,111
+"Pergamino","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",1,"3913.3400000000001",291705.1,112
+"Sargento Cabral","Chaco","Departamentos por encima del promedio nacional",6,"5937.8900000000003",101200.85,113
+"Independencia","Chaco","Departamentos dentro del promedio nacional",1,"1547.4400000000001",186560.73,114
+"Mayor Luis J. Fontana","Chaco","Departamentos dentro del promedio nacional",2,"8490.8299999999999",356504.73,115
+"Fray Justo Santa María de Oro","Chaco","Departamentos dentro del promedio nacional",0,"295.58999999999997",212382.69,116
+"General Belgrano","La Rioja","Departamentos dentro del promedio nacional",0,"0.81999999999999995",255343.28,117
+"Copo","Santiago del Estero","Departamentos dentro del promedio nacional",0,"3720.6900000000001",1259397.07,118
+"Río Hondo","Santiago del Estero","Departamentos dentro del promedio nacional",5,"11148.91",203779.1,119
+"Capital","La Rioja","Departamentos dentro del promedio nacional",2,"24323.220000000001",1360963.46,120
+"Río Seco","Cordoba","Departamentos dentro del promedio nacional",0,"2403.02",706504,121
+"Avellaneda","Rio Negro","Departamentos dentro del promedio nacional",4,"69506.899999999994",1784008.47,122
+"General Roca","Rio Negro","Departamentos dentro del promedio nacional",2,"36539.110000000001",1511976.98,123
+"Los Lagos","Neuquen","Departamentos por encima del promedio nacional",7,"23732.150000000001",355910.13,124
+"Lácar","Neuquen","Departamentos con alto nivel de extranjerización",54,"257346.01999999999",475095.11,125
+"Confluencia","Neuquen","Departamentos por encima del promedio nacional",6,"36020.889999999999",644602.49,126
+"Picunches","Neuquen","Departamentos dentro del promedio nacional",3,"19546.310000000001",594925.24,127
+"Añelo","Neuquen","Departamentos dentro del promedio nacional",1,"8383.6299999999992",1200184.31,128
+"Pehuenches","Neuquen","Departamentos dentro del promedio nacional",0,"11.31",830744.99,129
+"Minas","Neuquen","Departamentos dentro del promedio nacional",0,"84.120000000000005",596740.45,130
+"Chos Malal","Neuquen","Departamentos dentro del promedio nacional",0,"",454562.57,131
+"Lago Buenos Aires","Santa Cruz","Departamentos por encima del promedio nacional",6,"176362.67999999999",2765444.22,132
+"Comuna 2","Ciudad Autónoma de Buenos Aires","Sin datos",NA,NA,NA,133
+"Comuna 8","Ciudad Autónoma de Buenos Aires","Sin datos",NA,NA,NA,134
+"Sobremonte","Cordoba","Departamentos dentro del promedio nacional",1,"3199.79",324031.87,135
+"Río Grande","Tierra del Fuego, Antártida e Islas del Atlántico Sur","Departamentos dentro del promedio nacional",3,"16817.369999999999",637142,136
+"Comuna 13","Ciudad Autónoma de Buenos Aires","Sin datos",NA,NA,NA,137
+"Banda","Santiago del Estero","Departamentos dentro del promedio nacional",2,"8267.6499999999996",358883.53,138
+"Sarmiento","Santiago del Estero","Departamentos dentro del promedio nacional",2,"2874.5",154775.05,139
+"Deseado","Santa Cruz","Departamentos dentro del promedio nacional",4,"222784.20000000001",6362156.89,140
+"Belgrano","Santiago del Estero","Departamentos con alto nivel de extranjerización",15,"49214.18",331057.63,141
+"Aguirre","Santiago del Estero","Departamentos con alto nivel de extranjerización",15,"54866.459999999999",368596.28,142
+"Maipú","Chaco","Departamentos dentro del promedio nacional",0,"1000.33",275657.24,143
+"Guasayán","Santiago del Estero","Departamentos dentro del promedio nacional",1,"2236.1300000000001",258354.9,144
+"Capital","Cordoba","Sin datos",NA,NA,NA,145
+"Río Chico","Santa Cruz","Departamentos dentro del promedio nacional",3,"98500.0",3287029.81,146
+"Lago Argentino","Santa Cruz","Departamentos por encima del promedio nacional",11,"331748.47999999998",3104064.84,147
+"El Cuy","Rio Negro","Departamentos dentro del promedio nacional",0,"1390.1099999999999",1729219.75,148
+"Pichi Mahuida","Rio Negro","Departamentos dentro del promedio nacional",1,"23152.669999999998",1574918.56,149
+"Adolfo Alsina","Rio Negro","Departamentos dentro del promedio nacional",0,"740.20000000000005",835180.88,150
+"Bariloche","Rio Negro","Departamentos por encima del promedio nacional",14,"23050.790000000001",169391.01,151
+"Huiliches","Neuquen","Departamentos dentro del promedio nacional",5,"17756.650000000001",383223.93,152
+"Catán Lil","Neuquen","Departamentos por encima del promedio nacional",11,"60131.300000000003",539730.21,153
+"Almirante Brown","Chaco","Departamentos dentro del promedio nacional",0,"1336.25",1724437.48,154
+"Collón Curá","Neuquen","Departamentos por encima del promedio nacional",8,"45339.529999999999",558120.39,155
+"Comuna 3","Ciudad Autónoma de Buenos Aires","Sin datos",NA,NA,NA,156
+"Robles","Santiago del Estero","Departamentos dentro del promedio nacional",4,"4410.75",120216,157
+"Capital","Santiago del Estero","Departamentos dentro del promedio nacional",5,"9402.5799999999999",206056.47,158
+"Comuna 14","Ciudad Autónoma de Buenos Aires","Sin datos",NA,NA,NA,159
+"Loreto","Santiago del Estero","Departamentos por encima del promedio nacional",8,"25042.84",333335.5,160
+"Castelli","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",1,"2147.4499999999998",201892.17,161
+"Almirante Brown","Provincia de Buenos Aires","Departamentos por encima del promedio nacional",12,"476.67000000000002",4035.15,162
+"Presidente Perón","Provincia de Buenos Aires","Departamentos por encima del promedio nacional",12,"1070.8399999999999",8596.09,163
+"Brandsen","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",3,"3001.96",105800.67,164
+"Carlos Casares","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",1,"2613.0900000000001",244460.24,165
+"Carlos Tejedor","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",1,"5382.9700000000003",374099.89,166
+"25 de Mayo","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",1,"5906.3299999999999",455265.41,167
+"9 de Julio","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",3,"11639.629999999999",407907.96,168
+"Pehuajó","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",1,"4501.1700000000001",437198.59,169
+"Trenque Lauquen","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",3,"16103.879999999999",516517.49,170
+"General Belgrano","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",2,"2963.1399999999999",178747.87,171
+"Monte","Provincia de Buenos Aires","Departamentos por encima del promedio nacional",8,"14137.530000000001",175697.9,172
+"Roque Pérez","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",3,"4487.54",150496.13,173
+"Olavarría","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",4,"25256.27",708135.94,174
+"Merlo","Provincia de Buenos Aires","Departamentos por encima del promedio nacional",7,"474.36000000000001",6431.03,175
+"Esteban Echeverría","Provincia de Buenos Aires","Departamentos por encima del promedio nacional",10,"543.95000000000005",5558.35,176
+"Arrecifes","Provincia de Buenos Aires","Departamentos por encima del promedio nacional",6,"7127.4899999999998",119049.45,177
+"Capitán Sarmiento","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",2,"1035.3",53235.83,178
+"Carmen de Areco","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",2,"1721.04",97364.8,179
+"Salto","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",3,"4403.1499999999996",154866.59,180
+"Exaltación de la Cruz","Provincia de Buenos Aires","Departamentos por encima del promedio nacional",12,"6963.6999999999998",57504.48,181
+"San Miguel","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",0,"0.40999999999999998",750.38,182
+"San Andrés de Giles","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",2,"2203.1799999999998",110533.67,183
+"Junín","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",0,"599.07000000000005",207380.71,184
+"Mercedes","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",3,"2845.5900000000001",97868.18,185
+"Pilar","Provincia de Buenos Aires","Departamentos por encima del promedio nacional",9,"1742.1400000000001",18926.84,186
+"Luján","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",2,"1145.0899999999999",66896.7,187
+"Hurlingham","Provincia de Buenos Aires","Sin datos",NA,NA,NA,188
+"Morón","Provincia de Buenos Aires","Sin datos",NA,NA,NA,189
+"Chacabuco","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",2,"4091.8299999999999",207865.04,190
+"Malvinas Argentinas","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",1,"5.9000000000000004",474.42,191
+"General San Martín","Provincia de Buenos Aires","Sin datos",NA,NA,NA,192
+"Lincoln","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",4,"23380.869999999999",552233.49,193
+"Ituzaingó","Provincia de Buenos Aires","Sin datos",NA,NA,NA,194
+"General Rodríguez","Provincia de Buenos Aires","Departamentos por encima del promedio nacional",7,"1863.9400000000001",26707.04,195
+"Suipacha","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",1,"578.32000000000005",90527.06,196
+"Tres de Febrero","Provincia de Buenos Aires","Sin datos",NA,NA,NA,197
+"General Felipe Varela","La Rioja","Departamentos dentro del promedio nacional",0,"3.5",918122.8,198
+"Chivilcoy","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",1,"1342.49",194312.89,199
+"Alberti","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",1,"623.37",107027.63,200
+"Bragado","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",2,"4061.5900000000001",208813.33,201
+"General Las Heras","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",5,"3273.7600000000002",72101.2,202
+"Marcos Paz","Provincia de Buenos Aires","Departamentos por encima del promedio nacional",8,"2938.54",38041.61,203
+"General Viamonte","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",0,"551.67999999999995",211320.93,204
+"Ezeiza","Provincia de Buenos Aires","Departamentos por encima del promedio nacional",11,"1616.05",14632.8,205
+"Florencio Varela","Provincia de Buenos Aires","Departamentos por encima del promedio nacional",10,"1144.51",11522.14,206
+"Navarro","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",3,"3954.6900000000001",157030.73,207
+"Cañuelas","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",5,"5578.9399999999996",115249.08,208
+"San Vicente","Provincia de Buenos Aires","Departamentos por encima del promedio nacional",6,"3261.6300000000001",57787.29,209
+"Lobos","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",5,"7931.9499999999998",157357.98,210
+"General Alvear","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",2,"7021.9700000000003",311480.77,211
+"Quilmes","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",5,"55.549999999999997",1178.6,212
+"General La Madrid","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",2,"9697.1700000000001",468766.01,213
+"Bolívar","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",1,"5501.3299999999999",471746.38,214
+"Balcarce","Provincia de Buenos Aires","Departamentos por encima del promedio nacional",7,"26841.290000000001",401637.36,215
+"Tapalqué","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",1,"4517.3599999999997",402552.59,216
+"Hipólito Yrigoyen","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",1,"2275.52",163228.56,217
+"Dolores","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",0,"856.01999999999998",188450.99,218
+"Azul","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",4,"25343.299999999999",637720.38,219
+"Daireaux","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",1,"4993.7200000000003",374901.55,220
+"Tres Lomas","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",1,"1470.99",117924.59,221
+"Ayacucho","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",2,"10674.540000000001",658151.79,222
+"Guaminí","Provincia de Buenos Aires","Departamentos por encima del promedio nacional",6,"24946.889999999999",445120.4,223
+"Ensenada","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",0,"16.940000000000001",7059.53,224
+"Laprida","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",0,"1656.4000000000001",332109.35,225
+"San Isidro","Provincia de Buenos Aires","Sin datos",NA,NA,NA,226
+"Benito Juárez","Provincia de Buenos Aires","Departamentos por encima del promedio nacional",13,"67951.460000000006",507017.54,227
+"Colón","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",3,"2436.0799999999999",92386.6,228
+"Figueroa","Santiago del Estero","Departamentos dentro del promedio nacional",5,"29990.07",666148.6,229
+"Saavedra","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",0,"1570.6500000000001",329441.11,230
+"Monte Hermoso","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",1,"174.59",16028.42,231
+"Lobería","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",5,"24226.110000000001",457870.03,232
+"Berisso","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",2,"215.49000000000001",9859.57,233
+"Tordillo","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",0,"0.059999999999999998",120652.25,234
+"Zárate","Provincia de Buenos Aires","Departamentos con alto nivel de extranjerización",25,"12003.639999999999",48394.72,235
+"Ramallo","Provincia de Buenos Aires","Departamentos por encima del promedio nacional",8,"6881.0299999999997",90617.3,236
+"San Nicolás","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",3,"1679.9300000000001",59650.63,237
+"Salavina","Santiago del Estero","Departamentos dentro del promedio nacional",2,"7635.96",356049.58,238
+"Pellegrini","Santiago del Estero","Departamentos por encima del promedio nacional",6,"41012.720000000001",732936.02,239
+"Avellaneda","Santiago del Estero","Departamentos por encima del promedio nacional",6,"24489.82",389500.23,240
+"Moreno","Santiago del Estero","Departamentos por encima del promedio nacional",6,"91581.399999999994",1611751.12,241
+"Chacabuco","Chaco","Departamentos dentro del promedio nacional",1,"1498.8099999999999",136930.79,242
+"Juárez Celman","Cordoba","Departamentos dentro del promedio nacional",0,"3489.1700000000001",789111.74,243
+"Silípica","Santiago del Estero","Departamentos dentro del promedio nacional",1,"1004.8200000000001",117838,244
+"Castro Barros","La Rioja","Departamentos dentro del promedio nacional",0,"211.19999999999999",142000,245
+"Sanagasta","La Rioja","Departamentos dentro del promedio nacional",0,"0.0",170889.87,246
+"Chilecito","La Rioja","Departamentos con alto nivel de extranjerización",15,"71904.289999999994",483920.35,247
+"Ángel Vicente Peñaloza","La Rioja","Departamentos dentro del promedio nacional",0,"0.12",310447.63,248
+"Colón","Cordoba","Departamentos dentro del promedio nacional",0,"687.00999999999999",221589.06,249
+"General Juan Facundo Quiroga","La Rioja","Departamentos dentro del promedio nacional",0,"",258391.97,250
+"Rosario Vera Peñaloza","La Rioja","Departamentos dentro del promedio nacional",0,"4.2599999999999998",611089.32,251
+"General San Martín","La Rioja","Departamentos dentro del promedio nacional",0,"0.0",502857.99,252
+"Famatina","La Rioja","Departamentos dentro del promedio nacional",0,"122.84",458572.53,253
+"San Blas de Los Sauces","La Rioja","Departamentos dentro del promedio nacional",0,"0.40999999999999998",158957.63,254
+"San Antonio","Jujuy","Departamentos dentro del promedio nacional",0,"28.559999999999999",68913.86,255
+"Formosa","Formosa","Departamentos por encima del promedio nacional",11,"54999.260000000002",502819,256
+"Pilcomayo","Formosa","Departamentos dentro del promedio nacional",4,"18070.580000000002",447182,257
+"Ischilín","Cordoba","Departamentos dentro del promedio nacional",0,"2305.0799999999999",502776.74,258
+"Totoral","Cordoba","Departamentos dentro del promedio nacional",1,"2919.1100000000001",303017.69,259
+"General San Martín","Cordoba","Departamentos dentro del promedio nacional",1,"3011.5",494396,260
+"San Javier","Cordoba","Departamentos dentro del promedio nacional",0,"129.5",152377.05,261
+"Río Primero","Cordoba","Departamentos dentro del promedio nacional",1,"3659.2600000000002",670625.95,262
+"Marcos Juárez","Cordoba","Departamentos dentro del promedio nacional",1,"13657.85",914066.89,263
+"Leandro N. Alem","Provincia de Buenos Aires","Departamentos por encima del promedio nacional",10,"16113.370000000001",155932.08,264
+"Libertador General San Martín","Chaco","Departamentos dentro del promedio nacional",1,"7226.3400000000001",569103.18,265
+"General Arenales","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",1,"1149.26",139937.6,266
+"Bermejo","Chaco","Departamentos dentro del promedio nacional",2,"5050.0100000000002",208396.63,267
+"Calamuchita","Cordoba","Departamentos dentro del promedio nacional",1,"2705.4899999999998",456319.88,268
+"Patagones","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",1,"8783.3099999999995",1328234.44,269
+"Comuna 9","Ciudad Autónoma de Buenos Aires","Sin datos",NA,NA,NA,270
+"Mitre","Santiago del Estero","Departamentos dentro del promedio nacional",4,"15940.809999999999",366540,271
+"Atamisqui","Santiago del Estero","Departamentos dentro del promedio nacional",0,"496.60000000000002",224733.67,272
+"Jiménez","Santiago del Estero","Departamentos con alto nivel de extranjerización",16,"77123.850000000006",482880.53,273
+"Coronel de Marina Leonardo Rosales","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",2,"2314.1599999999999",103618.46,274
+"Baradero","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",1,"1512.5999999999999",107725.18,275
+"San Pedro","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",5,"5898.9200000000001",114152.9,276
+"Ledesma","Jujuy","Departamentos dentro del promedio nacional",1,"4843.4899999999998",323499.28,277
+"Humahuaca","Jujuy","Departamentos con alto nivel de extranjerización",26,"98726.309999999998",378793.24,278
+"Cochinoca","Jujuy","Departamentos dentro del promedio nacional",0,"0.13",783117.07,279
+"Tumbaya","Jujuy","Departamentos dentro del promedio nacional",1,"2713.8499999999999",344050.45,280
+"Dr. Manuel Belgrano","Jujuy","Departamentos por encima del promedio nacional",6,"11373.65",188685.36,281
+"Rinconada","Jujuy","Departamentos dentro del promedio nacional",1,"7501.4099999999999",616161.3,282
+"Ramón Lista","Formosa","Departamentos dentro del promedio nacional",1,"2500.0",372762,283
+"Florentino Ameghino","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",2,"2978.8800000000001",177698.21,284
+"Sauce","Corrientes","Departamentos dentro del promedio nacional",0,"6.2000000000000002",172995.54,285
+"San Martín","Corrientes","Departamentos dentro del promedio nacional",2,"13826.379999999999",558432.14,286
+"Paso de los Libres","Corrientes","Departamentos dentro del promedio nacional",0,"120.0",468950.67,287
+"Goya","Corrientes","Departamentos por encima del promedio nacional",10,"45949.410000000003",461202.31,288
+"Lavalle","Corrientes","Departamentos dentro del promedio nacional",0,"87.010000000000005",136994.86,289
+"San Roque","Corrientes","Departamentos por encima del promedio nacional",7,"11670.75",167305.33,290
+"General Alvear","Corrientes","Departamentos dentro del promedio nacional",5,"10429.040000000001",191225.44,291
+"Concepción","Corrientes","Departamentos por encima del promedio nacional",13,"34224.910000000003",253686.03,292
+"Bella Vista","Corrientes","Departamentos dentro del promedio nacional",0,"",168886.49,293
+"Santo Tomé","Corrientes","Departamentos por encima del promedio nacional",14,"92471.199999999997",657308.36,294
+"Saladas","Corrientes","Departamentos dentro del promedio nacional",0,"325.51999999999998",174596.13,295
+"General Paz","Corrientes","Departamentos dentro del promedio nacional",0,"1997.51",458615.95,296
+"Mburucuyá","Corrientes","Departamentos dentro del promedio nacional",0,"218.09999999999999",76884.65,297
+"San Miguel","Corrientes","Departamentos por encima del promedio nacional",11,"19642.700000000001",171818.02,298
+"Empedrado","Corrientes","Departamentos dentro del promedio nacional",0,"522.20000000000005",190450.42,299
+"Ituzaingó","Corrientes","Departamentos con alto nivel de extranjerización",34,"93858.710000000006",276890.58,300
+"Capital","Corrientes","Departamentos dentro del promedio nacional",0,"91.310000000000002",45621.58,301
+"San Luis del Palmar","Corrientes","Departamentos dentro del promedio nacional",1,"2393.8499999999999",211708.11,302
+"San Cosme","Corrientes","Departamentos por encima del promedio nacional",7,"4034.71",56151.57,303
+"Itatí","Corrientes","Departamentos dentro del promedio nacional",1,"405.55000000000001",76265.59,304
+"Berón de Astrada","Corrientes","Departamentos con alto nivel de extranjerización",33,"23325.02",71281.88,305
+"Tolhuin","Tierra del Fuego, Antártida e Islas del Atlántico Sur","Departamentos por encima del promedio nacional",12,"73030.929999999993",587008,306
+"1° de Mayo","Chaco","Departamentos dentro del promedio nacional",2,"2986.29",166268.57,307
+"9 de Julio","Chaco","Departamentos dentro del promedio nacional",0,"275.57999999999998",209390.62,308
+"San Fernando","Chaco","Departamentos dentro del promedio nacional",3,"6328.8500000000004",181157.23,309
+"San Lorenzo","Chaco","Departamentos dentro del promedio nacional",1,"1904.6600000000001",208235.7,310
+"2 de Abril","Chaco","Departamentos dentro del promedio nacional",4,"5791.25",154867.13,311
+"Lanús","Provincia de Buenos Aires","Sin datos",NA,NA,NA,312
+"Lomas de Zamora","Provincia de Buenos Aires","Sin datos",NA,NA,NA,313
+"Avellaneda","Provincia de Buenos Aires","Departamentos por encima del promedio nacional",6,"18.57",311.11,314
+"25 de Mayo","Chaco","Departamentos dentro del promedio nacional",1,"1218.5599999999999",194759.34,315
+"Libertad","Chaco","Departamentos dentro del promedio nacional",0,"275.91000000000003",99608.69,316
+"Comandante Fernández","Chaco","Departamentos dentro del promedio nacional",2,"3479.2399999999998",148192.6,317
+"General Belgrano","Chaco","Departamentos dentro del promedio nacional",0,"219.56",121462.13,318
+"General Donovan","Chaco","Departamentos dentro del promedio nacional",4,"4055.0100000000002",113192.69,319
+"Comuna 15","Ciudad Autónoma de Buenos Aires","Sin datos",NA,NA,NA,320
+"La Plata","Provincia de Buenos Aires","Departamentos por encima del promedio nacional",10,"6375.04",64122.6,321
+"Mercedes","Corrientes","Departamentos por encima del promedio nacional",10,"79262.130000000005",812856.06,322
+"Santa Bárbara","Jujuy","Departamentos dentro del promedio nacional",2,"7637.3699999999999",443960.24,323
+"Curuzú Cuatiá","Corrientes","Departamentos por encima del promedio nacional",10,"86370.460000000006",833700.42,324
+"Pocho","Cordoba","Departamentos dentro del promedio nacional",0,"834.07000000000005",304307.37,325
+"Santa María","Catamarca","Departamentos por encima del promedio nacional",9,"53249.190000000002",572729,326
+"Santa Rosa","Catamarca","Departamentos dentro del promedio nacional",1,"1729.98",158668,327
+"La Paz","Catamarca","Departamentos por encima del promedio nacional",12,"116297.02",992305,328
+"Fray Mamerto Esquiú","Catamarca","Departamentos dentro del promedio nacional",0,"",15670,329
+"Belén","Catamarca","Departamentos dentro del promedio nacional",0,"0.02",1306015,330
+"Capital","Catamarca","Departamentos dentro del promedio nacional",0,"",35633,331
+"Ancasti","Catamarca","Departamentos dentro del promedio nacional",0,"",194746,332
+"Pomán","Catamarca","Departamentos dentro del promedio nacional",0,"627.88999999999999",505485,333
+"Capayán","Catamarca","Departamentos dentro del promedio nacional",1,"3468.1100000000001",422882,334
+"Andalgalá","Catamarca","Departamentos dentro del promedio nacional",5,"25082.16",469374,335
+"Ambato","Catamarca","Departamentos dentro del promedio nacional",3,"4859.0699999999997",173425,336
+"Paclín","Catamarca","Departamentos con alto nivel de extranjerización",21,"20321.540000000001",98373,337
+"El Alto","Catamarca","Departamentos dentro del promedio nacional",4,"7031.8400000000001",193429,338
+"Valle Viejo","Catamarca","Departamentos dentro del promedio nacional",5,"2899.2600000000002",58961,339
+"Güer Aike","Santa Cruz","Departamentos por encima del promedio nacional",13,"432371.0",3363288.49,340
+"Pila","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",1,"4396.9499999999998",336780.74,341
+"General Alvear","Mendoza","Departamentos por encima del promedio nacional",12,"170578.81",1443000,342
+"Malargüe","Mendoza","Departamentos con alto nivel de extranjerización",15,"608739.78000000003",4130600,343
+"Santa Rosa","Mendoza","Departamentos dentro del promedio nacional",1,"6708.8800000000001",850300,344
+"Maipú","Mendoza","Departamentos por encima del promedio nacional",6,"3689.73",56800,345
+"San Martín","Mendoza","Departamentos por encima del promedio nacional",14,"20476.220000000001",147900,346
+"Rivadavia","Mendoza","Departamentos dentro del promedio nacional",1,"2564.75",212800,347
+"Junín","Mendoza","Departamentos dentro del promedio nacional",2,"449.73000000000002",25400,348
+"Guaymallén","Mendoza","Departamentos dentro del promedio nacional",3,"333.50999999999999",10000,349
+"Godoy Cruz","Mendoza","Departamentos dentro del promedio nacional",0,"",4100,350
+"Capital","Mendoza","Departamentos por encima del promedio nacional",11,"117.02",1100,351
+"Luján de Cuyo","Mendoza","Departamentos dentro del promedio nacional",2,"11827.32",475400,352
+"Las Heras","Mendoza","Departamentos por encima del promedio nacional",12,"110796.60000000001",890600,353
+"Tunuyán","Mendoza","Departamentos dentro del promedio nacional",3,"10352.780000000001",330600,354
+"San Carlos","Mendoza","Departamentos por encima del promedio nacional",7,"82508.300000000003",1156900,355
+"La Paz","Mendoza","Departamentos por encima del promedio nacional",13,"89335.300000000003",709900,356
+"Lavalle","Mendoza","Departamentos por encima del promedio nacional",10,"99115.979999999996",1020200,357
+"San Rafael","Mendoza","Departamentos dentro del promedio nacional",4,"120721.03999999999",3116300,358
+"Río Senguer","Chubut","Departamentos dentro del promedio nacional",1,"30236.57",2238065.8,359
+"Biedma","Chubut","Departamentos dentro del promedio nacional",5,"63994.519999999997",1294876.77,360
+"Villaguay","Entre Rios","Departamentos dentro del promedio nacional",3,"19878.970000000001",653541.91,361
+"Federal","Entre Rios","Departamentos dentro del promedio nacional",4,"19619.59",519447.49,362
+"San Salvador","Entre Rios","Departamentos dentro del promedio nacional",0,"4.79",130527.15,363
+"Nogoyá","Entre Rios","Departamentos dentro del promedio nacional",2,"6917.4799999999996",453637.83,364
+"Tala","Entre Rios","Departamentos dentro del promedio nacional",2,"4320.1899999999996",263935.54,365
+"Feliciano","Entre Rios","Departamentos dentro del promedio nacional",2,"6992.71",316096.05,366
+"Paraná","Entre Rios","Departamentos dentro del promedio nacional",1,"4686.5699999999997",490041.32,367
+"Diamante","Entre Rios","Departamentos dentro del promedio nacional",0,"856.84000000000003",256878.98,368
+"Victoria","Entre Rios","Departamentos dentro del promedio nacional",2,"12254.15",589646.1,369
+"Gualeguay","Entre Rios","Departamentos por encima del promedio nacional",9,"57043.589999999997",665333.64,370
+"Mártires","Chubut","Departamentos dentro del promedio nacional",1,"12961.709999999999",1528827.7,371
+"Telsen","Chubut","Departamentos dentro del promedio nacional",3,"64963.919999999998",1974290.54,372
+"Rawson","Chubut","Departamentos dentro del promedio nacional",0,"348.80000000000001",401745.04,373
+"Florentino Ameghino","Chubut","Departamentos dentro del promedio nacional",2,"33266.57",1601375.92,374
+"Escalante","Chubut","Departamentos dentro del promedio nacional",3,"45132.279999999999",1403535.76,375
+"Sarmiento","Chubut","Departamentos dentro del promedio nacional",1,"7235.6199999999999",1333087.25,376
+"Tehuelches","Chubut","Departamentos dentro del promedio nacional",2,"25113.360000000001",1458414.2,377
+"Languiñeo","Chubut","Departamentos dentro del promedio nacional",3,"39204.790000000001",1489250.03,378
+"Gastre","Chubut","Departamentos dentro del promedio nacional",3,"42579.639999999999",1611642.2,379
+"Cushamen","Chubut","Departamentos con alto nivel de extranjerización",23,"377875.38",1649975.64,380
+"Futaleufú","Chubut","Departamentos dentro del promedio nacional",4,"36046.379999999997",871277.68,381
+"Capital","San Juan","Sin datos",NA,NA,NA,382
+"Rivadavia","San Juan","Departamentos dentro del promedio nacional",5,"408.36000000000001",9020.33,383
+"Santa Lucía","San Juan","Departamentos dentro del promedio nacional",3,"112.70999999999999",3545.78,384
+"Rawson","San Juan","Departamentos dentro del promedio nacional",2,"524.20000000000005",24633.89,385
+"Pocito","San Juan","Departamentos por encima del promedio nacional",13,"7061.8599999999997",54319.4,386
+"Zonda","San Juan","Departamentos dentro del promedio nacional",0,"221.09",215792.12,387
+"Chimbas","San Juan","Departamentos dentro del promedio nacional",3,"126.08",3718.31,388
+"9 de Julio","San Juan","Departamentos dentro del promedio nacional",5,"651.47000000000003",12983.76,389
+"Albardón","San Juan","Departamentos dentro del promedio nacional",0,"82.269999999999996",94259.14,390
+"Angaco","San Juan","Departamentos dentro del promedio nacional",0,"442.23000000000002",243415.36,391
+"San Martín","San Juan","Departamentos con alto nivel de extranjerización",20,"10568.959999999999",52197,392
+"Caucete","San Juan","Departamentos dentro del promedio nacional",0,"1352.3",735680.25,393
+"Calingasta","San Juan","Departamentos por encima del promedio nacional",12,"258809.95000000001",2138362.42,394
+"Jáchal","San Juan","Departamentos por encima del promedio nacional",9,"125485.69",1357620.63,395
+"Valle Fértil","San Juan","Departamentos dentro del promedio nacional",1,"7576.8999999999996",527678.41,396
+"Iglesia","San Juan","Departamentos con alto nivel de extranjerización",25,"450044.60999999999",1803484.26,397
+"Ullum","San Juan","Departamentos dentro del promedio nacional",1,"2299.6100000000001",417025.05,398
+"Gobernador Dupuy","San Luis","Departamentos dentro del promedio nacional",3,"58317.309999999998",1848093.13,399
+"Ayacucho","San Luis","Departamentos dentro del promedio nacional",2,"19346.84",799122.97,400
+"Belgrano","San Luis","Departamentos dentro del promedio nacional",0,"493.17000000000002",825214.79,401
+"Juan Martín de Pueyrredón","San Luis","Departamentos dentro del promedio nacional",5,"68507.149999999994",1376037.94,402
+"General Pedernera","San Luis","Departamentos dentro del promedio nacional",2,"28043.830000000002",1482336.82,403
+"Junín","San Luis","Departamentos dentro del promedio nacional",0,"483.56999999999999",268180.08,404
+"Libertador General San Martín","San Luis","Departamentos dentro del promedio nacional",0,"280.72000000000003",347577.95,405
+"Coronel Pringles","San Luis","Departamentos por encima del promedio nacional",6,"21828.950000000001",384583.8,406
+"Chacabuco","San Luis","Departamentos dentro del promedio nacional",2,"5212.8000000000002",235236.14,407
+"25 de Mayo","San Juan","Departamentos dentro del promedio nacional",2,"10633.66",590058.82,408
+"Sarmiento","San Juan","Departamentos dentro del promedio nacional",4,"10968.540000000001",279845.42,409
+"Iruya","Salta","Departamentos dentro del promedio nacional",0,"",351464,410
+"Orán","Salta","Departamentos con alto nivel de extranjerización",23,"276043.85999999999",1185676,411
+"La Candelaria","Salta","Departamentos por encima del promedio nacional",11,"16868.66",152410,412
+"Cafayate","Salta","Departamentos con alto nivel de extranjerización",23,"35759.339999999997",154758,413
+"Santa Victoria","Salta","Departamentos dentro del promedio nacional",0,"",391089,414
+"General José de San Martín","Salta","Departamentos por encima del promedio nacional",12,"200940.88",1619368,415
+"Rivadavia","Salta","Departamentos dentro del promedio nacional",2,"47316.529999999999",2594003,416
+"Capital","Salta","Departamentos dentro del promedio nacional",4,"5993.4799999999996",146518,417
+"Cerrillos","Salta","Departamentos con alto nivel de extranjerización",25,"15485.59",62863,418
+"Chicoana","Salta","Departamentos con alto nivel de extranjerización",16,"14456.65",90129,419
+"Rosario de Lerma","Salta","Departamentos dentro del promedio nacional",0,"442.56999999999999",507070,420
+"La Caldera","Salta","Departamentos por encima del promedio nacional",9,"7544.2200000000003",85636,421
+"Cachi","Salta","Departamentos por encima del promedio nacional",11,"31185.75",292038,422
+"La Viña","Salta","Departamentos con alto nivel de extranjerización",28,"60662.709999999999",214943,423
+"San Carlos","Salta","Departamentos con alto nivel de extranjerización",60,"306454.25",512297,424
+"Anta","Salta","Departamentos por encima del promedio nacional",14,"307715.09999999998",2192493,425
+"Guachipas","Salta","Departamentos con alto nivel de extranjerización",34,"94205.619999999995",278408,426
+"Loncopué","Neuquen","Departamentos dentro del promedio nacional",0,"",546580.28,427
+"Ñorquín","Neuquen","Departamentos dentro del promedio nacional",3,"18707.23",551766.36,428
+"Constitución","Santa Fe","Departamentos dentro del promedio nacional",1,"1806.4000000000001",302272.58,429
+"Rosario","Santa Fe","Departamentos dentro del promedio nacional",0,"206.06",161935.38,430
+"Iriondo","Santa Fe","Departamentos dentro del promedio nacional",0,"219.16999999999999",309939.13,431
+"Las Colonias","Santa Fe","Departamentos dentro del promedio nacional",0,"573.45000000000005",603183.27,432
+"San Justo","Santa Fe","Departamentos dentro del promedio nacional",1,"7709.9300000000003",535734.6,433
+"Vinchina","La Rioja","Departamentos dentro del promedio nacional",4,"36936.800000000003",1028472.53,434
+"Antofagasta de la Sierra","Catamarca","Departamentos dentro del promedio nacional",0,"3504.6900000000001",2825718,435
+"Tinogasta","Catamarca","Departamentos con alto nivel de extranjerización",27,"608956.63",2288319,436
+"Caleu Caleu","La Pampa","Departamentos dentro del promedio nacional",1,"11927.15",906836.44,437
+"Chical Co","La Pampa","Departamentos dentro del promedio nacional",2,"21763.68",911665.4,438
+"Chapaleufú","La Pampa","Departamentos dentro del promedio nacional",0,"761.33000000000004",256514.76,439
+"Rancul","La Pampa","Departamentos dentro del promedio nacional",1,"2795.4499999999998",492213.55,440
+"Lihuel Calel","La Pampa","Departamentos dentro del promedio nacional",3,"43465.720000000001",1244777.39,441
+"Hucal","La Pampa","Departamentos dentro del promedio nacional",1,"7720.2700000000004",603000.79,442
+"Limay Mahuida","La Pampa","Departamentos dentro del promedio nacional",1,"7421.5200000000004",997643.96,443
+"Guatraché","La Pampa","Departamentos dentro del promedio nacional",1,"2500.0",351296.5,444
+"Maracó","La Pampa","Departamentos dentro del promedio nacional",1,"3135.1700000000001",254338.97,445
+"Realicó","La Pampa","Departamentos dentro del promedio nacional",0,"390.5",244400.89,446
+"Utracán","La Pampa","Departamentos dentro del promedio nacional",3,"43211.540000000001",1294838.2,447
+"Toay","La Pampa","Departamentos dentro del promedio nacional",3,"15652.200000000001",508508.46,448
+"Capital","La Pampa","Departamentos dentro del promedio nacional",1,"2274.3400000000001",249761.03,449
+"Trenel","La Pampa","Departamentos dentro del promedio nacional",0,"203.81999999999999",195279.03,450
+"Chalileo","La Pampa","Departamentos dentro del promedio nacional",1,"5429.6599999999999",891554.47,451
+"Puelén","La Pampa","Departamentos dentro del promedio nacional",3,"36968.779999999999",1298391.06,452
+"Conhelo","La Pampa","Departamentos dentro del promedio nacional",0,"1271.9000000000001",504154.66,453
+"Loventué","La Pampa","Departamentos por encima del promedio nacional",6,"53277.980000000003",922703.65,454
+"Ushuaia","Tierra del Fuego, Antártida e Islas del Atlántico Sur","Departamentos dentro del promedio nacional",0,"",702769,455
+"San Fernando","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",2,"2209.9699999999998",95910,456
+"Tigre","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",1,"292.36000000000001",31348.14,457
+"Gaiman","Chubut","Departamentos dentro del promedio nacional",1,"10354.27",1149558.45,458
+"Castellanos","Santa Fe","Departamentos dentro del promedio nacional",0,"676.05999999999995",639241.09,459
+"San Martín","Santa Fe","Departamentos dentro del promedio nacional",0,"288.82999999999998",475407.64,460
+"Paso de Indios","Chubut","Departamentos dentro del promedio nacional",4,"93314.630000000005",2223982.8,461
+"Rivadavia","Provincia de Buenos Aires","Departamentos dentro del promedio nacional",3,"9842.4699999999993",381314.41,462
+"La Poma","Salta","Departamentos dentro del promedio nacional",0,"",444671,463
+"General Güemes","Salta","Departamentos con alto nivel de extranjerización",29,"67685.0",234836,464
+"Rosario de la Frontera","Salta","Departamentos por encima del promedio nacional",8,"45438.470000000001",539002,465
+"Metán","Salta","Departamentos dentro del promedio nacional",2,"10319.450000000001",520256,466
+"Molinos","Salta","Departamentos con alto nivel de extranjerización",58,"207985.79999999999",359894,467
+"General Obligado","Santa Fe","Departamentos dentro del promedio nacional",0,"21.41",1045417.85,468
+"General López","Santa Fe","Departamentos dentro del promedio nacional",4,"39320.120000000003",1123420.54,469
+"Caseros","Santa Fe","Departamentos dentro del promedio nacional",0,"375.87",335205.1,470
+"San Lorenzo","Santa Fe","Departamentos dentro del promedio nacional",2,"2835.48",170492.08,471
+"Vera","Santa Fe","Departamentos dentro del promedio nacional",1,"26198.259999999998",2042619.42,472
+"9 de Julio","Santa Fe","Departamentos dentro del promedio nacional",2,"42815.540000000001",1732256.75,473
+"San Cristóbal","Santa Fe","Departamentos dentro del promedio nacional",1,"10180.450000000001",1426935.98,474
+"La Capital","Santa Fe","Departamentos dentro del promedio nacional",0,"209.38",243543.63,475
+"Atreucó","La Pampa","Departamentos por encima del promedio nacional",7,"26586.66",357117.3,476
+"Catriló","La Pampa","Departamentos dentro del promedio nacional",1,"2960.23",255192.46,477
+"Quemú Quemú","La Pampa","Departamentos dentro del promedio nacional",4,"9163.1200000000008",255218.93,478
+"Curacó","La Pampa","Departamentos dentro del promedio nacional",3,"41909.279999999999",1285738.48,479
+"Los Andes","Salta","Departamentos dentro del promedio nacional",0,"19.800000000000001",2563086,480
+"Tupungato","Mendoza","Departamentos dentro del promedio nacional",2,"5667.7700000000004",247900,481
+"Garay","Santa Fe","Departamentos con alto nivel de extranjerización",16,"61629.589999999997",391776.85,482
+"Belgrano","Santa Fe","Departamentos dentro del promedio nacional",2,"3648.0599999999999",237087.33,483
+"San Jerónimo","Santa Fe","Departamentos dentro del promedio nacional",0,"1248.0",416521.13,484
+"La Cocha","Tucuman","Departamentos dentro del promedio nacional",5,"4537.9499999999998",94678.09,485
+"Graneros","Tucuman","Departamentos dentro del promedio nacional",1,"1633.54",166696.32,486
+"Juan Bautista Alberdi","Tucuman","Departamentos dentro del promedio nacional",5,"3443.9400000000001",74552.69,487
+"Río Chico","Tucuman","Departamentos por encima del promedio nacional",8,"4326.4200000000001",57533.53,488
+"Simoca","Tucuman","Departamentos dentro del promedio nacional",0,"307.08999999999997",124330.86,489
+"Chicligasta","Tucuman","Departamentos dentro del promedio nacional",4,"5413.6599999999999",131064.79,490
+"Monteros","Tucuman","Departamentos dentro del promedio nacional",3,"3849.5100000000002",118593.42,491
+"Leales","Tucuman","Departamentos dentro del promedio nacional",2,"3274.6599999999999",194070.81,492
+"Famaillá","Tucuman","Departamentos dentro del promedio nacional",5,"2364.1900000000001",44437.42,493
+"Capital","Tucuman","Departamentos dentro del promedio nacional",0,"",252.9,494
+"Cruz Alta","Tucuman","Departamentos con alto nivel de extranjerización",16,"18404.43",112101.35,495
+"Lules","Tucuman","Departamentos dentro del promedio nacional",1,"465.31",55034.49,496
+"Yerba Buena","Tucuman","Departamentos dentro del promedio nacional",3,"292.94",10206.12,497
+"Tafí Viejo","Tucuman","Departamentos dentro del promedio nacional",2,"2114.8899999999999",111959.58,498
+"Burruyacú","Tucuman","Departamentos por encima del promedio nacional",9,"32718.52",361294,499
+"Trancas","Tucuman","Departamentos dentro del promedio nacional",1,"3464.1599999999999",299480.82,500
+"Tafí del Valle","Tucuman","Departamentos dentro del promedio nacional",1,"2947.7399999999998",259445.51,501
+"Islas del Atlántico Sur","Tierra del Fuego, Antártida e Islas del Atlántico Sur","Departamentos con alto nivel de extranjerización",100,"1500000",1500000,502
+"Capital","Misiones","Departamentos por encima del promedio nacional",6,"5064.9799999999996",79174.15,503
+"San Ignacio","Misiones","Departamentos por encima del promedio nacional",9,"14704.950000000001",162969.8,504
+"Candelaria","Misiones","Departamentos dentro del promedio nacional",5,"4071.1399999999999",84343.91,505
+"Montecarlo","Misiones","Departamentos con alto nivel de extranjerización",18,"31866.75",173606.09,506
+"Cainguás","Misiones","Departamentos dentro del promedio nacional",3,"4867.9700000000003",147899.19,507
+"Oberá","Misiones","Departamentos por encima del promedio nacional",6,"8681.4200000000001",150598.4,508
+"25 de Mayo","Misiones","Departamentos dentro del promedio nacional",4,"5867.4399999999996",166733.81,509
+"Leandro N. Alem","Misiones","Departamentos dentro del promedio nacional",3,"3521.1999999999998",101881.38,510
+"San Javier","Misiones","Departamentos dentro del promedio nacional",1,"736.32000000000005",61496.47,511
+"Concepción","Misiones","Departamentos con alto nivel de extranjerización",16,"11795.66",71941.96,512
+"Apóstoles","Misiones","Departamentos dentro del promedio nacional",1,"816.30999999999995",98033.54,513
+"Guaraní","Misiones","Departamentos dentro del promedio nacional",1,"2052.8699999999999",342377.88,514
+"San Pedro","Misiones","Departamentos por encima del promedio nacional",9,"32116.709999999999",356810.07,515
+"Iguazú","Misiones","Departamentos con alto nivel de extranjerización",40,"114406.67999999999",286378.35,516
+"General Manuel Belgrano","Misiones","Departamentos por encima del promedio nacional",11,"29061.470000000001",261345.63,517
+"Eldorado","Misiones","Departamentos con alto nivel de extranjerización",16,"31266.080000000002",192507.84,518
+"Libertador General San Martín","Misiones","Departamentos con alto nivel de extranjerización",17,"24858.419999999998",148154.47,519
+"Monte Caseros","Corrientes","Departamentos dentro del promedio nacional",3,"6374.96",219215.15,520
+"Federación","Entre Rios","Departamentos dentro del promedio nacional",1,"3385.6999999999998",347486.01,521
+"Islas del Ibicuy","Entre Rios","Departamentos dentro del promedio nacional",1,"6181.2399999999998",478679.71,522
+"Uruguay","Entre Rios","Departamentos dentro del promedio nacional",1,"4798.1199999999999",512732.62,523
+"Colón","Entre Rios","Departamentos dentro del promedio nacional",1,"3004.4299999999998",262914.66,524
+"Gualeguaychú","Entre Rios","Departamentos dentro del promedio nacional",3,"22460.189999999999",739286.96,525
+"Concordia","Entre Rios","Departamentos por encima del promedio nacional",6,"17864.549999999999",314644.69,526
+"La Paz","Entre Rios","Departamentos por encima del promedio nacional",9,"56636.410000000003",646511.23,527
+"San Javier","Santa Fe","Departamentos dentro del promedio nacional",3,"19842.27",639384.47,528
+"Antártida Argentina","Tierra del Fuego, Antártida e Islas del Atlántico Sur","Sin datos",NA,NA,NA,529
